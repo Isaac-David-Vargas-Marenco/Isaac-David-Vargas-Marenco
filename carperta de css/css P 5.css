@@ -1,0 +1,47 @@
+
+.parrafo-modificado{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+   font-style: oblique;
+   font-weight: 700; 
+
+}
+.parrafo-online-modificado{
+    font-family:  'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 50px;
+
+}
+.parrafo-decorado{
+    color: cornflowerblue;
+    letter-spacing: 5px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+
+}
+.lista{
+    list-style: none;
+}
+.lista li{
+    display: inline;
+    padding: 10px;
+}
+.cajita{
+    border: 2px solid black;
+    height: 150px;
+    margin: 25px;
+    padding: 25px;
+}
+.bg-img{
+    background-color: aquamarine;
+    background-image: url("https://llandscapes-10674.kxcdn.com/wp-content/uploads/2019/07/lighting.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.centrado{
+    text-align: center;
+}

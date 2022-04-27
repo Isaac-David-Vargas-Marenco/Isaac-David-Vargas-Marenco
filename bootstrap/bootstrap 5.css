@@ -1,0 +1,17 @@
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid red;
+    margin-top: 40px;
+}
+
+ 
+.carousel-item{
+    height: 450px;
+    margin-top: 10px;
+}
+
+.card{
+    margin-top: 35px;
+}

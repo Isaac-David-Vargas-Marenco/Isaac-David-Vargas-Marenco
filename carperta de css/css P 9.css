@@ -1,0 +1,59 @@
+p{
+  color: blue;
+}
+.texto{
+  color: green;
+}
+#unico{
+  color: red;
+}
+ul{
+    color: blue;
+}
+ul li{
+    color: green;
+}
+.lista li{
+    color: purple;
+}
+li.cambio-color{
+    color:  brown;
+}
+li .cambio-color{
+    color: aqua;
+}
+#p2{
+ color: black;
+
+ }
+ ul.child{
+     list-style: none;
+ }
+ul.child li{
+    color: black;
+}
+ul.child li:first-child{
+    color: red;
+}
+ul.child li:last-child{
+    color: dimgray;
+}
+ul.child li:nth-child(3){
+    color: pink;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+div p:nth-child(2){
+    color: brown;
+}
+div p:nth-child(4){
+    color: blueviolet;
+}
+.segundo{
+    color: brown;
+}
+.cuarto{
+    color: blueviolet;
+}  

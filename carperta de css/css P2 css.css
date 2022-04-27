@@ -1,0 +1,30 @@
+h1{ background-color: pink;
+    border: 2px solid black;
+    color: brown;
+    font-size: 35px;
+    margin: 10px;
+    padding: 15px; 
+}
+h2{  background-color: pink;
+    border: 2px solid black;
+    color: darkgreen;
+    font-size: 25px;
+    margin: 15px;
+    padding: 10px;
+}
+p{  background-color: pink;
+    border: 2px solid black;
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.grande{
+
+ font-size: 45px;
+ }
+.peque{
+    font-size: 16px;
+}
+
+

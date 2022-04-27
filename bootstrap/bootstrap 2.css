@@ -1,0 +1,11 @@
+header{
+    background-color: black;
+    padding: 20px;
+}
+.logo{
+    width: 150px;
+}
+.nav-menu{
+    list-style: none;
+    padding: 0;
+}

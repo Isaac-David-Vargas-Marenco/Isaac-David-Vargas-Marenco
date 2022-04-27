@@ -1,0 +1,43 @@
+.box{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    color: white;
+    
+}
+.box-inline{
+ display: inline;
+}
+.box-inlineblock{
+ display: inline-block;
+}
+#box-parent{
+    height: 450px;
+    background-color: purple;
+    border: 1px solid black;   
+}
+.flex{
+    align-items: center;
+    display: flex;
+    justify-content: space-between ;
+    
+}
+.primero{
+    order: 1;
+}
+.segundo{
+    order: 2;
+}
+.tercero{
+    order: 3;
+}
+.cuarto{
+    order: 4;
+}
+.quinto{
+    order: 5;
+}
+.sexto{
+    order: 6;
+}

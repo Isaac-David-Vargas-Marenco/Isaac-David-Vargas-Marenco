@@ -1,0 +1,19 @@
+.Cuadrado{
+    background-color: black;
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+}
+.Circulo{
+    background-color: black;
+    border: 1px solid red;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.Rectangulo{
+  background-color: black;
+  border: 1px solid red;
+  height: 400px;
+  width: 200px;
+}

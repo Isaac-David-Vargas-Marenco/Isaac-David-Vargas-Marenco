@@ -1,0 +1,23 @@
+a{
+    color: black;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: darkred;
+}
+a:active{
+    color: blue;
+}
+a::before{
+    content: "*";
+    color: brown;
+    font-weight: bold;
+
+}
+a::after{
+    content: "-- ➜ ";
+    color: brown;
+    font-weight: bold;
+}

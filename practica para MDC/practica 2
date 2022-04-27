@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+     <meta charset="utf-8">
+     <meta name= "wiewport" content="width=device-width, initial-scale=1.0">
+     <title>Practica 1 - HTML </title>
+
+  </head>
+   
+  <body>
+      <p>esto es un parrafo </p>
+      <h1>esto es un titulo</h1>
+      <p>esto es otro parrafo</p>
+ </body>
+
+ </html>

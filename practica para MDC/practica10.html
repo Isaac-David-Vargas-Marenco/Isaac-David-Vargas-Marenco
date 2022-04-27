@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+     <meta charset="utf-8">
+     <meta name= "wiewport" content="width=device-width, initial-scale=1.0">
+     <title>Practica 10 - HTML </title>
+
+  </head>
+   
+  <body>
+       <form action="" method="get">
+        <table border="1" width="60">
+          <thead style="background-color: aqua;" >
+            
+            <td>
+              <strong>Name</strong>
+            </td>
+             <td>
+              <strong>Value</strong>
+            </td>
+          </thead>
+             <tr>
+                <td>
+                  <label for="Name">Name</label>
+                </td>
+                <td>
+                   <input id="name" type="text" name="name">
+                </td>
+             </tr> 
+              <tr>
+                <td>
+                  <p>sex</p>
+                </td>
+                <td>
+                  <input id="genero-m" type="radio" name="genero" value="Masculino">
+                  <label for="genero-m"> Masculino </label> 
+                  <br /> 
+                  <input id="genero-f" type="radio" name="genero" value="Femenino">
+                  <label for="genero-f"> Femenino </label>
+                </td> 
+              </tr>
+              <tr>
+                <td>
+                <label for="eye color">Eye color:</label>
+                </td>
+                <td>
+                <select id="eye color" name="eye color">
+                <option value="black">black</option>
+                <option value="blue">blue</option>
+                <option value="green">green</option>
+                <option value="browm">browm</option>
+                <option value="ligth blue">ligth blue</option>
+                <option value="red">red</option>
+                </select>
+                </td>
+              </tr>
+                <tr>
+                     <td>
+                     <p>
+                       Check all that apply
+                     </p>
+                  
+                    <td>
+                    <input id="Check all that apply" type="checkbox" name="Check all that apply"
+                   value="Over 6 feet tall"/>
+                    <label for="Check all that apply">Over 6 feet tall</label>
+                    <br />
+                    <input id="Check all that apply" type="checkbox" name="Check all that apply"
+                   value="Over 200 pounds"/>
+                    <label for="quiz-m">Over 200 pounds</label>
+                </td>
+                </tr>
+                
+        </table>
+        <table border="1" width="40">
+          <tr>
+            <td>
+            <label for="caja de comentarios">Caja de Comentarios</label>
+            </td>
+            <td>
+            <textarea id="caja de comentarios" rows="5"></textarea>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <input id="Enter" type="submit" value="Enviar" />
+            </td>
+            <td>
+            <input id="limpiar" type="reset" value="Limpiar" />
+            </td>
+            </tr>
+
+        </table>
+ </body>
+
+ </html>

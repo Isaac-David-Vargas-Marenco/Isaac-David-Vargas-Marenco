@@ -1,0 +1,18 @@
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: 1px solid red;
+    margin-top: 40px;
+}
+
+.card{
+    margin-top: 15px;
+}
+.comida{
+    height: 170px;
+}
+.camisa{
+    height: 190px;
+}
+
